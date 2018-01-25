@@ -1,6 +1,6 @@
 <?php
 
- //Version 1.1 EBV     31.05.17
+ //Version 2.0 EBV     2018
 
 
 IPSUtils_Include ('IPSModuleManager.class.php', 'IPSLibrary::install::IPSModuleManager');
