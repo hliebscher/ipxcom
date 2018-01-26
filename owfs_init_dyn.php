@@ -92,7 +92,7 @@ $varid = CreateVariableByName($CatID_Grafik, "HighCharts", 3 ,"~HTMLBox");
 
 $Script_Inhalt = '<?php
 
-	includeScript('.$ChartID.') ;
+	includeScript('."$ChartID".') ;
 
 function includeScript($scriptID)
 {
